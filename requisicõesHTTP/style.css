@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    background-image: url('https://media.istockphoto.com/id/1389942228/pt/foto/brazil-topographic-map-3d-realistic-brazil-map-color-3d-illustration.jpg?s=2048x2048&w=is&k=20&c=i82_TqAxi0X03YVLSJKu3vgeM5cQzHVF2-8l5tTAEaI=');
+    background-repeat: no-repeat;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 400px;
+    margin-bottom: 40px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select {
+    padding: 6px;
+    font-size: 1em;
+}
